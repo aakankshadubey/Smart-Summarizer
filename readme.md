@@ -4,8 +4,10 @@
 <p>
     
     This is a web application that can be used to summarize any kind of text easily.
-    This can be used to extract text from image and then summarize it or it can be directly used to summarize text.
-    Other Features include login and signup on this web application for better personalized experience.
+    This can be used to extract text from image and then summarize it or it can be directly 
+    used to summarize text.
+    Other Features include login and signup on this web application for better personalized
+    experience.
 
 
 </p>
